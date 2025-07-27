@@ -39,7 +39,11 @@
   <a href="https://www.linkedin.com/in/dareen-3laa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://www.instagram.com/darreen_alaa" target="_blank">
+  <a href="[https://drive.google.com/file/d/YOUR_DRIVE_SHARE_LINK/view?usp=sharing](https://drive.google.com/file/d/10VPnI3sMt-Z98FugSW_PSYwhV8fQaG45/view?usp=sharing)" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=View+My+CV&logo=google-drive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Drive CV Badge"/>
+</a>
+
+   <a href="https://www.instagram.com/darreen_alaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Badge"/>
   </a>
 </div>
